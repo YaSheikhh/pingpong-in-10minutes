@@ -1,6 +1,6 @@
 # Ping Pong and Git Speed Run (Practice)
-Author: Musa Faisal
-Email: musaf977@gmail.com
+Author: Musa Faisal, 
+Email: musaf977@gmail.com, 
 Dated: 20,07,2024
 <br>
 Libraries used pygame & random
