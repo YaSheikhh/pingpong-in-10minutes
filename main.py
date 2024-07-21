@@ -22,7 +22,7 @@ def main():
 
         screen.fill((0, 0, 0))
         font = pygame.font.Font(None, 74)
-        text = font.render("Welcome to Ping Pong", True, (255, 255, 255))
+        text = font.render("Ping Pong Speedrun by Musa", True, (255, 255, 255))
         screen.blit(text, (150, 200))
         text = font.render("Press 'P' to Play", True, (255, 255, 255))
         screen.blit(text, (200, 300))
